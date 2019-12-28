@@ -9,9 +9,9 @@
 #### Project Info:
 
 Bare bones phoenix app with the following tables:
-* `chat_rooms` - https://github.com/josephan/ex_machina_sample/blob/master/lib/ex_machina_sample/chat_room.ex
-* `chat_memberships` - https://github.com/josephan/ex_machina_sample/blob/master/lib/ex_machina_sample/chat_membership.ex
-* `users` - https://github.com/josephan/ex_machina_sample/blob/master/lib/ex_machina_sample/user.ex
+* `chat_rooms` - [chat_rooms.ex](https://github.com/josephan/ex_machina_sample/blob/master/lib/ex_machina_sample/chat_room.ex)
+* `chat_memberships` - [chat_memberships.ex](https://github.com/josephan/ex_machina_sample/blob/master/lib/ex_machina_sample/chat_membership.ex)
+* `users` - [users.ex](https://github.com/josephan/ex_machina_sample/blob/master/lib/ex_machina_sample/user.ex)
 
 Test File: https://github.com/josephan/ex_machina_sample/blob/master/test/ex_machina_sample_web/sample_test.exs
 
